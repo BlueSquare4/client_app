@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  phone: MyString
+  diseases: MyString
+  email: MyString
+  date_of_admittance: 2024-05-03
+  time_required_for_recovery: 1
+
+two:
+  first_name: MyString
+  last_name: MyString
+  phone: MyString
+  diseases: MyString
+  email: MyString
+  date_of_admittance: 2024-05-03
+  time_required_for_recovery: 1
